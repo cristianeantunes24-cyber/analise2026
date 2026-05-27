@@ -17,6 +17,7 @@ else:
 
 print(f"O valor digitado foi {valor}")
 print("teste")
+print("teste 2")
 
 
 
