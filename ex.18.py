@@ -10,3 +10,4 @@ else:
     print("Calor")
 
 print(f"A temperatura informada foi {temperatura}°C")
+print ("alterado por outra pessoa")
